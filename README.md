@@ -1,2 +1,2 @@
-# sharepoint-wsp-repackage
+# SharePoint WSP Repackage
 SharePoint WSP Repackage
