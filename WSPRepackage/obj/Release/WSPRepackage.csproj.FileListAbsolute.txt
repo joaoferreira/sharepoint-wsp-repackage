@@ -1,0 +1,15 @@
+C:\Users\joao1\OneDrive\HANDS ON SharePoint\Software\WSPRepackage\WSPRepackage\bin\Release\WSPRepackage.exe.config
+C:\Users\joao1\OneDrive\HANDS ON SharePoint\Software\WSPRepackage\WSPRepackage\bin\Release\WSPRepackage.exe.manifest
+C:\Users\joao1\OneDrive\HANDS ON SharePoint\Software\WSPRepackage\WSPRepackage\bin\Release\WSPRepackage.application
+C:\Users\joao1\OneDrive\HANDS ON SharePoint\Software\WSPRepackage\WSPRepackage\bin\Release\WSPRepackage.exe
+C:\Users\joao1\OneDrive\HANDS ON SharePoint\Software\WSPRepackage\WSPRepackage\bin\Release\WSPRepackage.pdb
+C:\Users\joao1\OneDrive\HANDS ON SharePoint\Software\WSPRepackage\WSPRepackage\bin\Release\Microsoft.Deployment.Compression.Cab.dll
+C:\Users\joao1\OneDrive\HANDS ON SharePoint\Software\WSPRepackage\WSPRepackage\bin\Release\Microsoft.Deployment.Compression.dll
+C:\Users\joao1\OneDrive\HANDS ON SharePoint\Software\WSPRepackage\WSPRepackage\obj\Release\WSPRepackage.csprojResolveAssemblyReference.cache
+C:\Users\joao1\OneDrive\HANDS ON SharePoint\Software\WSPRepackage\WSPRepackage\obj\Release\WSPRepackage.Form1.resources
+C:\Users\joao1\OneDrive\HANDS ON SharePoint\Software\WSPRepackage\WSPRepackage\obj\Release\WSPRepackage.Properties.Resources.resources
+C:\Users\joao1\OneDrive\HANDS ON SharePoint\Software\WSPRepackage\WSPRepackage\obj\Release\WSPRepackage.csproj.GenerateResource.Cache
+C:\Users\joao1\OneDrive\HANDS ON SharePoint\Software\WSPRepackage\WSPRepackage\obj\Release\WSPRepackage.exe.manifest
+C:\Users\joao1\OneDrive\HANDS ON SharePoint\Software\WSPRepackage\WSPRepackage\obj\Release\WSPRepackage.application
+C:\Users\joao1\OneDrive\HANDS ON SharePoint\Software\WSPRepackage\WSPRepackage\obj\Release\WSPRepackage.exe
+C:\Users\joao1\OneDrive\HANDS ON SharePoint\Software\WSPRepackage\WSPRepackage\obj\Release\WSPRepackage.pdb
